@@ -1,0 +1,6 @@
+LIBNAME=oboe
+VERSION=1.10.0
+BASE_URL=https://github.com/google/oboe/archive/refs/tags/
+ARCHIVE=$(VERSION).tar.gz
+SHA512=ce4011afe7345370d4ead3b891cd69a5ef224b129535783586c0ca75051d303ed446e6c7f10bde8da31fff58d6e307f1732a3ffd03b249f9ef1fd48fd4132715
+BYPRODUCT=liboboe.a
